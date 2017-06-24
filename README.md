@@ -1,6 +1,7 @@
 ![sxiv](http://muennich.github.com/sxiv/img/logo.png "sxiv")
 
 **Simple X Image Viewer**
+**with darker background, inspired by lucy**
 
 The primary goal of sxiv is to create an image viewer, which only has the most
 basic features required for fast image viewing (the ones I want). It has vi key
